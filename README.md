@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Fitriadi</h1>
 <h3 align="center">A passionate web developer from Indonesia</h3>
 
-- 🌱 I’m currently learning **Laravel, React.js, and Next.js**
+- 🌱 I’m currently learning **Laravel,and React.js**
 - 👨‍💻 All of my projects are available at [https://thongfang.surge.sh/](https://thongfang.surge.sh/)
 - 💬 Ask me about **JavaScript, TypeScript, Node.js**
 - 📫 How to reach me **m.fitriadi021@gmail.com**
